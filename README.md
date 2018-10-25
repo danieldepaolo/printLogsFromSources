@@ -1,4 +1,4 @@
-# Your Task
+# Print Logs From Log Sources
 
 Imagine you are given a set of log sources.  Each source is comprised of N log entries.  Each entry is a simple javascript object with a timestamp and message.  You don't know how many log entries each source has, BUT you do know that the entries within each source are sorted chronologically (that last bit is important).
 
@@ -12,12 +12,3 @@ Your mission is to print out all of the entries, across all of the sources, in c
 There are two parts of the challenge which you'll see when you dive into things.  You can get started with things by running `npm start`, see `index.js` for more details!
 
 We typically see candidates spend 1-3 hours on this exercise, but feel free to take as much time working on this as you like. You are allowed to use third-party modules. 
-
-## Expectations
-
-Of course first and foremost we're looking to see if you can solve this challenge! That said we're also looking to see how you structure your code and how fast your solution runs. Don’t hesitate to reach out if you need more clarity around requirements or expectations just like you would in your current job.
-
-## Submission 
-
-Once you've completed the challenge, please zip the encompassing folder and submit it [here](https://goo.gl/forms/m9aELJJT02d1silL2). Please don't post your solution to this challenge online to make this a fair challenge for other candidates.
-# printLogsFromSources
